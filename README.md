@@ -1,16 +1,36 @@
-## Hi there 👋
+# Ben Scire
 
-<!--
-**ben-scire/ben-scire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Engineer building infrastructure for real-world healthcare systems.
 
-Here are some ideas to get you started:
+My work sits at the intersection of software systems, automation, and biomedical engineering. I focus on building tools that operate in real clinical environments, not just prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+
+• Agentic AI systems  
+• Automation and orchestration pipelines  
+• Infrastructure for scalable patient support systems  
+
+## Previous Work
+
+• Designed and deployed medical devices used by real patients  
+• Built large-scale automation systems and developer tooling  
+• Developed full-stack software for healthcare applications  
+• Extensive 3D design and CAD work for biomedical devices  
+
+## Tech
+
+Python • FastAPI • TypeScript • React Native • Postgres • LLM tooling • CAD
+
+## Focus
+
+Most healthcare technology fails not at diagnosis, but in the time between visits.
+
+I'm interested in building systems that support patients continuously while extending the reach of clinicians.
+
+## Selected Projects
+
+Pinned repositories below highlight work in:
+
+• AI agent orchestration  
+• automation infrastructure  
+• full-stack application development
