@@ -8,6 +8,7 @@ My work sits at the intersection of designing ML training pipelines for clinical
 • Agentic AI systems  
 • Automation and orchestration pipelines  
 • Infrastructure for scalable healthcare systems
+
 • building open source templates to help engineers use ai tools the right way and avoid slop
 
 ## Previous Work
