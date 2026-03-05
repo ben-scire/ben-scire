@@ -21,12 +21,6 @@ My work sits at the intersection of designing ML training pipelines for clinical
 
 Python • FastAPI/Django • TypeScript/JS • React Native • postres • LLM fine tuning • agent orchestration
 
-## Focus
-
-Most healthcare technology fails not at diagnosis, but in the time between visits.
-
-I'm interested in building systems that support patients continuously while extending the reach of clinicians.
-
 ## Selected Projects
 
 Pinned repositories below highlight work in:
