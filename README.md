@@ -36,7 +36,7 @@ My work sits at the intersection of software systems, automation, and biomedical
 
 • Agentic AI systems  
 • Automation and orchestration pipelines  
-• Infrastructure for scalable patient support systems  
+• Infrastructure for scalable healthcare
 
 ## Previous Work
 
