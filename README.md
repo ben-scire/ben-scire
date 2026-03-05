@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Ben Scire
 
 AI Systems Engineer building infrastructure for real-world healthcare systems.
