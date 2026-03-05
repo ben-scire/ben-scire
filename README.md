@@ -7,18 +7,14 @@ My work sits at the intersection of designing ML training pipelines for clinical
 
 • Agentic AI systems  
 • Automation and orchestration pipelines  
-• Infrastructure for scalable healthcare systems
-
-• building open source templates to help engineers use ai tools the right way and avoid slop
+• Infrastructure for scalable healthcare systems\
+• Building open source templates to help engineers use ai tools efficiently
 
 ## Previous Work
 
-• Invented and designed 4 novel 3D-printed orthapedic devices, credited on 6 patents
-
-• Built automation systems & production pipeline to deliver 30,000+ devices to real-world patients
-
-• Developed full-stack ios app for healthcare systems utilizing LIDAR technology to scan anatomy
-
+• Invented and designed 4 novel 3D-printed orthapedic devices, credited on 6 patents\
+• Built automation systems & production pipeline to deliver 30,000+ devices to real-world patients\
+• Developed full-stack ios app for healthcare systems utilizing LIDAR technology to scan anatomy\
 • Extensive 3D design and CAD work for biomedical devices, top contributor on Autodesk API forums
 
 ## Tech
