@@ -12,9 +12,12 @@ My work sits at the intersection of designing ML training pipelines for clinical
 
 ## Previous Work
 
-• Invented and designed 4 novel 3D-printed orthapedic devices, credited on 6 patents
-• Built automation systems & production pipeline to deliver 30,000+ devices to real-world patients
+• Invented and designed 4 novel 3D-printed orthapedic devices, credited on 6 patents#
+
+• Built automation systems & production pipeline to deliver 30,000+ devices to real-world patients\
+
 • Developed full-stack ios app for healthcare systems utilizing LIDAR technology to scan anatomy
+
 • Extensive 3D design and CAD work for biomedical devices, top contributor on Autodesk API forums
 
 ## Tech
