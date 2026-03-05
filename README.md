@@ -25,6 +25,13 @@ AI Systems Engineer building infrastructure for real-world healthcare systems.
 
 My work sits at the intersection of software systems, automation, and biomedical engineering. I focus on building tools that operate in real clinical environments, not just prototypes.
 
+
+ \
+ \
+ \
+ \
+
+
 ## Currently Building
 
 • Agentic AI systems  
