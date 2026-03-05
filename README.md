@@ -1,5 +1,5 @@
 
-# AI/ML Engineer | System Architecture
+# AI/ML Engineer | Full-Stack SWE | Biomedical Engineer
 
 My work sits at the intersection of designing ML training pipelines for clinical usage, full stack software systems, agentic driven automation pipelines, and biomedical engineering. I focus on building tools that operate in real clinical environments, not just prototypes.
 
