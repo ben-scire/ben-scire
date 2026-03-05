@@ -1,40 +1,8 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- \
- \
- \
-
-  \
-  \
-  \
- \
-  |
-  
-
-
-
 # AI/ML Engineer | System Architecture | Python Automation
 
 
 My work sits at the intersection of software systems, automation, and biomedical engineering. I focus on building tools that operate in real clinical environments, not just prototypes.
-
-
-
 
 ## Currently Building
 
