@@ -1,25 +1,25 @@
 
-# AI/ML Engineer | System Architecture | Python Automation
+# AI/ML Engineer | System Architecture
 
-
-My work sits at the intersection of software systems, automation, and biomedical engineering. I focus on building tools that operate in real clinical environments, not just prototypes.
+My work sits at the intersection of designing ML training pipelines for clinical usage, full stack software systems, agentic driven automation pipelines, and biomedical engineering. I focus on building tools that operate in real clinical environments, not just prototypes.
 
 ## Currently Building
 
 • Agentic AI systems  
 • Automation and orchestration pipelines  
-• Infrastructure for scalable healthcare
+• Infrastructure for scalable healthcare systems
+• building open source templates to help engineers use ai tools the right way and avoid slop
 
 ## Previous Work
 
-• Designed and deployed medical devices used by real patients  
-• Built large-scale automation systems and developer tooling  
-• Developed full-stack software for healthcare applications  
-• Extensive 3D design and CAD work for biomedical devices  
+• Invented and designed 4 novel 3D-printed orthapedic devices, credited on 6 patents
+• Built automation systems & production pipeline to deliver 30,000+ devices to real-world patients
+• Developed full-stack ios app for healthcare systems utilizing LIDAR technology to scan anatomy
+• Extensive 3D design and CAD work for biomedical devices, top contributor on Autodesk API forums
 
 ## Tech
 
-Python • FastAPI • TypeScript • React Native • Postgres • LLM tooling • CAD
+Python • FastAPI/Django • TypeScript/JS • React Native • postres • LLM fine tuning • agent orchestration
 
 ## Focus
 
@@ -34,3 +34,5 @@ Pinned repositories below highlight work in:
 • AI agent orchestration  
 • automation infrastructure  
 • full-stack application development
+
+working towards providing more open source templates as I can!
