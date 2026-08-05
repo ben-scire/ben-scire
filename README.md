@@ -1,32 +1,53 @@
+# Benjamin Scire
 
-# AI/ML Engineer | Full-Stack SWE | Biomedical Engineer
+### Building clinically governed AI infrastructure at [Alnu Health](https://alnuhealth.com)
 
-My work sits at the intersection of designing ML training pipelines for clinical usage, full stack software systems, agentic driven automation pipelines, and biomedical engineering. I focus on building tools that operate in real clinical environments, not just prototypes.
+I’m an AI/software engineer and biomedical engineer building systems that extend chronic disease care beyond the clinic—starting with GLP-1 therapy.
 
-## Currently Building
+Alnu’s mission is to help people live longer, healthier lives by giving them greater control over their health data and enabling more personalized, proactive, and effective care.
 
-• Agentic AI systems  
-• Automation and orchestration pipelines  
-• Infrastructure for scalable healthcare systems\
-• Building open source templates to help engineers use ai tools efficiently
+Our first product is a dual-sided care platform:
 
-## Previous Work
+* A patient-facing AI companion for adherence, side-effect support, nutrition, and behavior change
+* Clinician-facing tools for decision support, population insights, and more efficient workflows
 
-• Invented and designed 4 novel 3D-printed orthapedic devices, credited on 6 patents\
-• Built automation systems & production pipeline to deliver 30,000+ devices to real-world patients\
-• Developed full-stack ios app for healthcare systems utilizing LIDAR technology to scan anatomy\
-• Extensive 3D design and CAD work for biomedical devices, top contributor on Autodesk API forums
+We’re designing Alnu to support clinicians, not replace their judgment. Medical decisions remain with the treating clinician.
 
-## Tech
+## What I’m Building
 
-Python • FastAPI/Django • TypeScript/JS • React Native • postres • LLM fine tuning • agent orchestration
+* Agentic orchestration for clinically governed AI workflows
+* Longitudinal health-data infrastructure and population-level insights
+* Safety monitoring, risk detection, and human escalation pathways
+* Mobile and web products that fit into real patient and clinician workflows
+* Evaluation systems for reliability, clinical usefulness, and real-world outcomes
 
-## Selected Projects
+## People I’d Like to Meet
 
-Pinned repositories below highlight work in:
+I’m especially interested in engineers who want to work on consequential, technically difficult problems at the intersection of AI, healthcare, and product.
 
-• AI agent orchestration  
-• automation infrastructure  
-• full-stack application development
+You may be a strong fit if you:
 
-working towards providing more open source templates as I can!
+* Take ownership across product, architecture, and implementation
+* Move comfortably between applied AI, backend systems, data, and user-facing software
+* Care about safety, evidence, privacy, and the details required to deploy in clinical environments
+* Prefer shipping useful systems and learning from real-world use over building demos
+* Want your work to improve how patients experience care without adding burden to clinicians
+
+If that sounds like you, I’d be glad to connect: [ben@alnuhealth.com](mailto:ben@alnuhealth.com)
+
+## Background
+
+Before Alnu, I worked across biomedical product development, manufacturing automation, and clinical software:
+
+* Invented and designed four 3D-printed orthopedic devices and was credited on six patents
+* Built automation and production systems that helped deliver more than 30,000 devices to patients
+* Developed a full-stack iOS application using LiDAR to capture patient anatomy
+* Built extensively with CAD and design automation, including contributions to the Autodesk API community
+
+## Tools I Work With
+
+`Python` · `FastAPI` · `Django` · `TypeScript` · `React Native` · `PostgreSQL` · `GCP` · `Firebase` · `LLM evaluation and fine-tuning` · `Agent orchestration`
+
+## Open Source
+
+My pinned repositories include experiments and reusable tooling for agent orchestration, automation infrastructure, and full-stack development. I’m working toward sharing more of the patterns we learn while building reliable AI systems.
